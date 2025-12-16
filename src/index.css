@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* * {
+  background-color: #232323;
+  color: white;
+  margin: 0px;
+  padding: 0px;;
+} */
+ section {
+  scroll-margin-top: 4rem; /* same as navbar height */
+}
