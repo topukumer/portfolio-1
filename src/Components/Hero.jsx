@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="w-full min-h-[100vh] md:min-h-[90dvh] bg-[#010101] text-white flex items-center md:items-center py-12 md:py-0" id="hero">
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-10 px-6">
 
-        <div className="flex justify-center">
+        <div className="flex justify-center pt-4">
           <img
             src={profile_img}
             alt="Profile"
